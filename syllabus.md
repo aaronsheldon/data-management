@@ -152,10 +152,10 @@ material.
 
 There are no quizzes or exams in this course.
 
+### Assignment policy
 
-### Make-up policy
-
-Late assignments will be docked 10% up to one week late, and 20% up to the end of the class, except in cases of genuine emergencies that can be documented by the student or in cases where this has been discussed and approved in advance. This
+Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
+submitted via Canvas. Late assignments will be docked 10% up to one week late, and 20% up to the end of the class, except in cases of genuine emergencies that can be documented by the student or in cases where this has been discussed and approved in advance. This
 policy is based on the idea that in order to learn how to use computers well,
 students should be working with them at multiple times each week. Time has been
 allotted in class for working on assignments and students are expected to work
@@ -165,12 +165,6 @@ following class period. Therefore, even if something unexpected happens at the
 last minute you should already be close to done with the assignment. This policy
 also allows rapid feedback to be provided to students by returning assignments
 quickly.
-
-
-### Assignment policy
-
-Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
-submitted via Canvas.
 
 
 ### Course Technology
@@ -202,35 +196,21 @@ courtesy in all email messages, threaded discussions and chats.
 
 ## Getting Help
 
-For issues with technical difficulties for E-learning in Canvas, please contact the UF Help Desk at:
+For login problems only: contact the UNL Computer Help Center
+Phone: (402) 472-3970 or toll-free (866) 472-3970 E-mail: mysupport@unl.edu
 
-* Learning-support@ufl.edu 
-* (352) 392-HELP - select option 2
-* https://lss.at.ufl.edu/help.shtml 
-
-Any requests for make-ups due to technical issues MUST be accompanied by the
-ticket number received from LSS when the problem was reported to them. The
+Any requests for make-ups due to technical issues with Canvas MUST be accompanied by the
+ticket number received from the help center when the problem was reported to them. The
 ticket number will document the time and date of the problem. You MUST e-mail
 your instructor within 24 hours of the technical difficulty if you wish to
 request a make-up.
 
-Other resources are available at http://www.distance.ufl.edu/getting-help for:
-
-* Counseling and Wellness resources
-* Disability resources
-* Resources for handling student concerns and complaints
-* Library Help Desk support
-
-Should you have any complaints with your experience in this course please visit
-http://www.distance.ufl.edu/student-complaints to submit a complaint.
-
 Most importantly, if you are struggling for any reason please come talk to me
 and I will do my best to help.
 
-
 ## Grading Policies
 
-There will be 11 equally weighted assignments. One problem from each assignment
+There will be one equally weighted assignment per week. One problem from each assignment
 (selected at the instructors discretion after the assignments have been
 submitted) will receive a thorough code review and a detailed grade. Other
 problems will be graded as follows:
