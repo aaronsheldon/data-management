@@ -16,3 +16,9 @@ language: R
   * [Introduction to data frames](http://www.datacarpentry.org/R-ecology-lesson//03-data-frames.html)
   * [Vector Reference](http://www.r-tutor.com/r-introduction/vector) (*Read links at bottom*)
   * [Data Frame Reference](http://www.r-tutor.com/r-introduction/data-frame)
+  
+* Videos
+
+  * [Video on Data types and vectors](https://youtu.be/vCX6hnx4dEE)
+  * [Video with more Vectors and Factors](https://youtu.be/TOoQoysT9is)
+  * [Video on Matrices and Lists](https://youtu.be/HOp6SY5tvxw)

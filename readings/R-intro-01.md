@@ -24,3 +24,5 @@ language: R
   * [Video for Intro to R](https://youtu.be/WHQuKwBv4YA)
   * [Short video on comparing floating point numbers](https://youtu.be/a4NLV680uuo)
   * [Organizing your project](https://youtu.be/pJmLIrUbo24)
+  * [Video for project management](https://youtu.be/ahcX9XZE1s8)
+  * [Video for getting help](https://youtu.be/F7Z94CqKzzI)
