@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Assignment Schedule
-assignments: ['Introduction to Databases', 'Joins and Tidy Data',
-'Introduction to R and RStudio', 'Project Proposals', 'Working with Data', 
-'Data Visualization', 'Programming Fundamentals 1', 'Programming Fundamentals 
-2', 'Knitr', 'Working with Spatial Data','Working with Databases', 'Version 
-Control Basics', 'Putting It All Together', 'Project Week', 'Project Week',
-'Project Week']
+title: Course Schedule
+assignments: ['General Introduction', 'Introduction to R and RStudio - Part 1', 'Introduction to R and RStudio - Part 2']
 ---
 
 {% include assignments.html %}

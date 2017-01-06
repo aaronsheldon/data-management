@@ -27,7 +27,7 @@ Carpentry.
 [Software Carpentry](http://software-carpentry.org) has been teaching scientists and engineers the concepts, skills, 
 and tools they need to use and build software more productively since 1977. All 
 of the content is freely available under a Creative Commons license (the same 
-one we use here), and the existence of this content not only saves me a massive 
+one used here), and the existence of this content not only saves a massive 
 amount of time and effort, but also taught me a lot of what I know about 
 programming well.
 
