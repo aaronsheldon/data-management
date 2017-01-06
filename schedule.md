@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Schedule
-assignments: ['General Introduction', 'Introduction to R and RStudio - Part 1', 'Introduction to R and RStudio - Part 2']
+assignments: ['General Introduction', 'Introduction to R and RStudio - Part 1', 'Introduction to R and RStudio - Part 2', 'Data Visualization - Part 1', 'Working with Data - Part 1']
 ---
 
 {% include assignments.html %}
