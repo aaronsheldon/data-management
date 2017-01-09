@@ -24,5 +24,5 @@ language: R
   * [Video for Intro to R](https://youtu.be/WHQuKwBv4YA)
   * [Short video on comparing floating point numbers](https://youtu.be/a4NLV680uuo)
   * [Organizing your project](https://youtu.be/pJmLIrUbo24)
-  * [Video for project management](https://youtu.be/ahcX9XZE1s8)
+  * [Video for project management](https://youtu.be/ahcX9XZE1s8). The web page I am looking at is [here](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/), the link for the data is under Challenge 1.
   * [Video for getting help](https://youtu.be/F7Z94CqKzzI)
