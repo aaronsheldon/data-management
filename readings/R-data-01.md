@@ -15,7 +15,7 @@ language: R
 ## Videos
 
 * Just the first couple minutes of this [Video about split - apply - combine](https://youtu.be/XPFf4_yf7YQ). Stop when I load library(plyr)!
-* [Video about dplyr select, filter & mutate](https://youtu.be/aKHNwgnmpO0)
+* [Video about dplyr select, filter & mutate](https://youtu.be/aKHNwgnmpO0) (~15 min)
 * [Video about summarize & group_by](https://youtu.be/IbiHzLsKc50)
 
 ## Extra Resources
