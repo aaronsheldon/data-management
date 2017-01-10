@@ -20,9 +20,9 @@ language: R
   
 * Videos
 
-  * [Video for Intro to RStudio](https://youtu.be/FNrCxTSzq6s)
-  * [Video for Intro to R](https://youtu.be/WHQuKwBv4YA)
-  * [Short video on comparing floating point numbers](https://youtu.be/a4NLV680uuo)
-  * [Organizing your project](https://youtu.be/pJmLIrUbo24)
-  * [Video for project management](https://youtu.be/ahcX9XZE1s8). The web page I am looking at is [here](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/), the link for the data is under Challenge 1.
+  * [Video for Intro to RStudio](https://youtu.be/FNrCxTSzq6s) (~18 min)
+  * [Video for Intro to R](https://youtu.be/WHQuKwBv4YA) (~27 min)
+  * [Short video on comparing floating point numbers](https://youtu.be/a4NLV680uuo) (~6 min)
+  * [Organizing your project](https://youtu.be/pJmLIrUbo24) (~14 min)
+  * [Video for project management](https://youtu.be/ahcX9XZE1s8). (~17 min) The web page I am looking at is [here](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/), the link for the data is under Challenge 1.
   * [Video for getting help](https://youtu.be/F7Z94CqKzzI)
