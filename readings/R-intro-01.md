@@ -25,4 +25,4 @@ language: R
   * [Short video on comparing floating point numbers](https://youtu.be/a4NLV680uuo) (~6 min)
   * [Organizing your project](https://youtu.be/pJmLIrUbo24) (~14 min)
   * [Video for project management](https://youtu.be/ahcX9XZE1s8). (~17 min) The web page I am looking at is [here](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/), the link for the data is under Challenge 1.
-  * [Video for getting help](https://youtu.be/F7Z94CqKzzI)
+  * [Video for getting help](https://youtu.be/F7Z94CqKzzI) (~16 min)
