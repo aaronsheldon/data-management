@@ -20,8 +20,8 @@ language: R
   
 * Videos
 
-  * [Video on Data types and vectors](https://youtu.be/vCX6hnx4dEE)
-  * [Video with more Vectors and Factors](https://youtu.be/TOoQoysT9is)
-  * [Video on Matrices and Lists](https://youtu.be/HOp6SY5tvxw)
-  * [Video for subsetting Vectors](https://youtu.be/LZB3x6hNZ9M)
-  * [Video for subsetting factors, matrices and lists](https://youtu.be/GXWCrQVW5Dk)
+  * [Video on Data types and vectors] (~17 min) (https://youtu.be/vCX6hnx4dEE)
+  * [Video with more Vectors and Factors] (~13 min) (https://youtu.be/TOoQoysT9is)
+  * [Video on Matrices and Lists] (~16 min) (https://youtu.be/HOp6SY5tvxw)
+  * [Video for subsetting Vectors] (~16 min) (https://youtu.be/LZB3x6hNZ9M)
+  * [Video for subsetting factors, matrices and lists] (~16 min) (https://youtu.be/GXWCrQVW5Dk)
