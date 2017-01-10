@@ -10,10 +10,10 @@ language: R
   * `ggplot`
 
 * Readings & videos
-  * [Video introduction to ggplot](https://youtu.be/8Gew6UYqF0s)
-  * [Video on transformations and statistics](https://youtu.be/jtaIvtvlGIQ)
-  * [Video on faceting and themes](https://youtu.be/DB0kVWnk724)
-  * [Reading for the lesson](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/) 
+  * [Video introduction to ggplot](https://youtu.be/8Gew6UYqF0s) (~ 15 min)
+  * [Video on transformations and statistics](https://youtu.be/jtaIvtvlGIQ) (~11 min)
+  * [Video on faceting and themes](https://youtu.be/DB0kVWnk724) (~12 min)
+  * [Reading for the lesson](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/) (~60 min learning + ~20 min exercises)
 
   * There is an error in the video -- the code for changing the legend name is incorrect. The correct code for making the plot is below and in the reading.
 
