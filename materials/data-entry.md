@@ -1,7 +1,7 @@
 ---
 layout: page
 element: notes
-title: Data Entry
+title: Data entry
 language: Excel
 ---
 
