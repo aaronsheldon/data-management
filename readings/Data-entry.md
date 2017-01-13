@@ -23,7 +23,7 @@ protection against bad data being entered
 
 ### Tips from the trenches (@pxxpih)
 
-From [here](https://twitter.com/pxxpih/status/819592744741937153)
+Originally from [here](https://twitter.com/pxxpih/status/819592744741937153). Humans are not robots, plan as such. In any project that requires recording more than a few dozen observations there will be clerical errors, data entry standards and interpretation will drift, as well new dimensions may be added, or old ones attritioned; particularly if the worksheets pass through multiple hands. Nonetheless, forewarned is forearmed.
 
 - place metadata on a separate sheet within the workbook. Describe other sheets, columns, allowed values, units, guidelines.
 - make data as columnar as possible. Instead of columns for each year, one column describing the year, with many rows. One way to check this -- do any column headings contain data?
@@ -41,6 +41,7 @@ From [here](https://twitter.com/pxxpih/status/819592744741937153)
 - For each column determine and document the interpretation of nulls, or empty cells. Does it mean not observed? Indefinitely in the future? Indefinitely in the past? Some coding conventions involve specifying a code for the reason for missing. This is rarely of use. Statistical techiniques, such as survival analysis, that can incorporate incomplete or censored data generally are only concerned with absence or presence.
 - Record the temporal and spatial bounds of a set of observations, such as the beginning and end of a data capture period. This is important for working with statistical techniques that incorporate missing, and censored data. The temporal and spatial bounds place censoring limits on the possible values of the data. Or in the worst case can be used as uninformative uniformly distributed priors.
 - Do not ever use default values! If part of an observation is unknown leave it unrecorded. Default values will introduce artifacts into your analysis (see: determining the interpretation of nulls).
+- Determine the set of columns whose combination of values uniquely identifies a row. Place these as the first columns of the spreadsheet, and at the top of paper forms. For example the columns might be the combination of `observer, time, location, species` when doing abundance counts across multiple species, sites, times, and observers. In planning these columns carefully consider unexpected multiplicity. A word of caution, in designing data capture we tend to over design the restriction of values on single cells, at the detriment of considering how columns should be interpreted together. Another example, this time of unrecognized multiplicity: one might be observering moss growth on tree trunks and would think of designing one row per tree. However, a few trees will have two trunks, less will have three, and so on. In this case you would want to design the spreadsheet around one row per trunk, with an additional column to identify the common tree to which the trunk belongs. These are the sort of things that, if not addressed upfront, will have you redesigning spreadsheets, and forms in the field, or adding hyphenated data to identifying strings, and numbers. This concept is roughly the idea of a primary key in database terminology.
 
 ### Quality Assurance
 
